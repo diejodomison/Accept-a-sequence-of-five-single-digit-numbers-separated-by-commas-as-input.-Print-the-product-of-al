@@ -1,0 +1,7 @@
+num=input()
+q=int(num[0])
+w=int(num[2])
+e=int(num[4])
+r=int(num[6])
+t=int(num[8])
+print(q*w*e*r*t)
